@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RetrievabilityCalculatorParams>
+
+    <!--Inputs-->
+    <!-- The Index to Read From-->
+    <indexName>CommonCore2017PorterTempIndex1987</indexName>
+
+    <!-- outputFiles -->
+   <!-- Gram Types to process , choose one of the following
+    1-  Unigram ( For Unigrams only )
+    2- Bigram (For Bigrams only)
+    3- All for all grams -->
+    <gramTypes>All</gramTypes>
+    <!--Query short Form - Used for the Code-->
+    <qryShort>out/queryGram.txt</qryShort>
+    <!--Query Long Form ( QryID - Qry - Counter - Weight )-->
+    <qryLong>out/longQueryGrams.txt</qryLong>
+    <biCutoff>20</biCutoff>
+    <uniCutoff>5</uniCutoff>
+    <maxResults>100</maxResults>
+    <model>bm25</model>
+    <b>0.25</b>
+    <k>0.75</k>
+</RetrievabilityCalculatorParams>
