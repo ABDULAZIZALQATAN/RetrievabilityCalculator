@@ -9,7 +9,7 @@ to calculate the document retievability  of a range of documents from a [Lucene4
 
 FlowChart 
 -------
-[Flow Chart Of The Process) (https://github.com/ABDULAZIZALQATAN/RetrievabilityCalculator/blob/master/Read%20Me/Retrievability%20Schema.pdf)
+[Process Flow Chart With 3 Stored Procedures](https://github.com/ABDULAZIZALQATAN/RetrievabilityCalculator/blob/master/Read%20Me/Retrievability%20Schema.pdf)
 
 Development Tool :
 ---
