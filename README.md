@@ -7,7 +7,11 @@ This Retrievability Calculator is based on the attached paper
 [Retrievability An Evaluation Measure for Higher Order Information Access Tasks.pdf](https://github.com/ABDULAZIZALQATAN/RetrievabilityCalculator/blob/master/Retrievability%20An%20Evaluation%20Measure%20for%20Higher%20Order%20Information%20Access%20Tasks.pdf)
 to calculate the document retievability  of a range of documents from a [Lucene4IR](https://github.com/lucene4ir/lucene4ir/blob/master/README.md) index File 
 
-It is created using :
+FlowChart 
+-------
+[Flow Chart Of The Process) (https://github.com/ABDULAZIZALQATAN/RetrievabilityCalculator/blob/master/Read%20Me/Retrievability%20Schema.pdf)
+
+Development Tool :
 ---
 ![IntellJ Version 2019.1.3](https://github.com/ABDULAZIZALQATAN/RetrievabilityCalculator/blob/master/Explanations/1-%20IntelliJ%20Version.jpg)
 
